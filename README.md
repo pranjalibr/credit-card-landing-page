@@ -1,4 +1,9 @@
-# credit card landing page
+# Credit Card Landing Page
+---
+## Steps to run project-
+* install live server in Vscode
+* open index.html with live server
+---
 ![image](https://github.com/pranjalibr/credit-card-landing-page/assets/53832298/c5d2d196-4961-469e-8139-5798e9b2cd8d)
 ![image](https://github.com/pranjalibr/credit-card-landing-page/assets/53832298/872c6df8-6a50-447b-8b78-dbfc92aff56e)
 ![image](https://github.com/pranjalibr/credit-card-landing-page/assets/53832298/22765c36-52ec-4982-925e-5ee2740df308)
