@@ -1,5 +1,7 @@
 # Credit Card Landing Page
 ---
+https://credit-card-landing-page-html-css.netlify.app/
+---
 ## Steps to run project-
 * install live server in Vscode
 * open index.html with live server
